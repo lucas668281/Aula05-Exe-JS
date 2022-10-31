@@ -51,7 +51,7 @@ console.log(conversorTexto.toUpperCase()); //TEXTO TEM QUE FICA MAIUSCULO
 //Exe 8
 
 const tipoDados = `texto para retorna o parametro`
-console.log(tipoDados.typeof) //undefined uma variável indefinida
+console.log(typeof tipoDados) //string
 
 //Exe 9
 
